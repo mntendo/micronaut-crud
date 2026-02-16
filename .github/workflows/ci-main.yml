@@ -3,7 +3,7 @@ name: CI - Test and Build Jar
 on:
   push:
     branches:
-      - main
+      - jdbc
 
 jobs:
   build:
